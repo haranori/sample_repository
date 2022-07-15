@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'haraapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00C20C828C9E47D38D2BDB2665C09A98 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE40A17D8E894C78BC48B69644E8C3F5 }}
           package: .
